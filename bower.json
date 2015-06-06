@@ -1,0 +1,22 @@
+{
+  "name": "ember-cli-imgix-core-js-shim",
+  "main": [
+    "imgix-core-js-shim.js"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/imgix/ember-cli-imgix-core-js-shim",
+  "authors": [
+    "Kelly Sutton <michael.k.sutton@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "imgix-core-js": "^0.1.0"
+  }
+}
+
