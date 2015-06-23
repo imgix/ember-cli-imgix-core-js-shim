@@ -3,7 +3,7 @@
   "main": [
     "imgix-core-js-shim.js"
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/imgix/ember-cli-imgix-core-js-shim",
   "authors": [
     "Kelly Sutton <michael.k.sutton@gmail.com>"
@@ -16,7 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "imgix-core-js": "^0.1.0"
+    "imgix-core-js": ">=0.2.1"
   }
 }
 
